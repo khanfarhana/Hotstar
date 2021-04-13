@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "https___blogs-images.forbes.com_scottmendelson_files_2017_05_wdwmn_online_master_deflection_4000x2490_master-rev-1-1200x675.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
